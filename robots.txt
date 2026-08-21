@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babitaiise.github.io/handbook-nr4k4v/sitemap.xml
